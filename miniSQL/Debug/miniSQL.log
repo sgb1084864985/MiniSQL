@@ -1,0 +1,12 @@
+﻿  API.cpp
+G:\vs\db2021\MINISQL\others\miniSQL9\miniSQL\miniSQL\base.h(111,1): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+G:\vs\db2021\MINISQL\others\miniSQL9\miniSQL\miniSQL\base.h(271,21): warning C4018: “<”: 有符号/无符号不匹配
+G:\vs\db2021\MINISQL\others\miniSQL9\miniSQL\miniSQL\API.cpp(84,20): warning C4018: “<”: 有符号/无符号不匹配
+G:\vs\db2021\MINISQL\others\miniSQL9\miniSQL\miniSQL\API.cpp(101,21): warning C4018: “<”: 有符号/无符号不匹配
+G:\vs\db2021\MINISQL\others\miniSQL9\miniSQL\miniSQL\API.cpp(110,16): warning C4018: “<”: 有符号/无符号不匹配
+G:\vs\db2021\MINISQL\others\miniSQL9\miniSQL\miniSQL\API.cpp(127,16): warning C4018: “<”: 有符号/无符号不匹配
+G:\vs\db2021\MINISQL\others\miniSQL9\miniSQL\miniSQL\API.cpp(154,16): warning C4018: “<”: 有符号/无符号不匹配
+G:\vs\db2021\MINISQL\others\miniSQL9\miniSQL\miniSQL\API.cpp(180,16): warning C4018: “<”: 有符号/无符号不匹配
+G:\vs\db2021\MINISQL\others\miniSQL9\miniSQL\miniSQL\API.cpp(193,16): warning C4018: “<”: 有符号/无符号不匹配
+G:\vs\db2021\MINISQL\others\miniSQL9\miniSQL\miniSQL\API.cpp(221,21): warning C4018: “<”: 有符号/无符号不匹配
+  miniSQL.vcxproj -> G:\vs\db2021\MINISQL\others\miniSQL9\miniSQL\Debug\miniSQL.exe

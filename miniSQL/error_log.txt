@@ -1,0 +1,5 @@
+严重性	代码	说明	项目	文件	行	禁止显示状态
+错误	C4996	
+'fopen': This function or variable may be unsafe. 
+Consider using fopen_s instead. To disable deprecation, 
+use _CRT_SECURE_NO_WARNINGS. See online help for details.	UNIT_TEST_INDEX	G:\vs\db2021\MINISQL\UNIT_TEST_INDEX\main.cpp	29	
